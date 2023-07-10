@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tonny Kithui</h1>
-<h3 align="center">A passionate frontend developer from Nairobi,Kenya.</h3>
+<h3 align="center">A passionate fullstack developer from Nairobi,Kenya.</h3>
 
 - 🔭 I’m currently working on [Fullstack(React + Nodejs + Typescript)](https://github.com/Tonnykithui/BugTracker)
 
