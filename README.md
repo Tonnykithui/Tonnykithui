@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tonnykithui@gmail.com**
 
-- ⚡ Fun fact **I am passionate about my work and I strive to achieve perfection in wwhat I build**
+- ⚡ Fun fact **I am passionate about my work and I strive to achieve and bring out the best of what I touch(build)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
